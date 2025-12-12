@@ -1,0 +1,7 @@
+{
+  "name": "Assistente PPAC - IEL/COGERH",
+  "description": "Assistente de voz inteligente e bem-humorada para orientar candidatos do Mestrado Profissional PPAC (Turma IEL 2026.1).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
